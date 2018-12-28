@@ -1,0 +1,38 @@
+{
+  "name": "sdeeplink",
+  "description": "sdeeplink is a util, stand-alone script to adjust deeplink",
+  "version": "1.0.1",
+  "keywords": [
+    "deeplink"
+  ],
+  "files": [
+    "dist",
+    "src"
+  ],
+  "author": {
+    "name": "szy",
+    "url": "xxxx",
+    "email": "wangmianmian@szy.cn"
+  },
+  "main": "dist/sdeeplink.js",
+  "license": "MIT",
+  "homepage": "xxxx/sdeeplink",
+  "demo": "xxxx/sdeeplink",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ztjy-fe/sdeeplink"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-plugin-transform-es2015-modules-umd": "^6.24.1",
+    "babel-preset-env": "^1.6.1",
+    "gaze": "^1.1.2",
+    "jshint": "^2.9.5",
+    "uglify-js": "^3.3.16"
+  },
+  "scripts": {
+    "build": "node build"
+  }
+}
