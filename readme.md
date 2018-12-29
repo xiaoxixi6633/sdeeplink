@@ -20,4 +20,4 @@ yes    | yes     | 9+  | yes    | yes        | 4       | ?          | 8.1
 #### Usage
 
 ```javascript
-sdeeplink({}).init();
+sdeeplink();

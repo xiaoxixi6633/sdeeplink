@@ -1,7 +1,7 @@
 {
   "name": "sdeeplink",
   "description": "sdeeplink is a util, stand-alone script to adjust deeplink",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "keywords": [
     "deeplink"
   ],
